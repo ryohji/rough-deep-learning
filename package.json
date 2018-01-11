@@ -1,0 +1,25 @@
+{
+  "name": "rough-deep-learning",
+  "version": "0.1.0",
+  "description": "JavaScript rough precision floating point number arithmetic deep learning engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryohji/rough-deep-learning.git"
+  },
+  "keywords": [
+    "DeepLearning"
+  ],
+  "author": "Ikebe, Ryohji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryohji/rough-deep-learning/issues"
+  },
+  "homepage": "https://github.com/ryohji/rough-deep-learning#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
